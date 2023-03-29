@@ -1,0 +1,333 @@
+Id,Label,indegree,outdegree,degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality
+331,Pago Pago Intl,2,0,2,0,0,0,0
+330,Babelthuap/Koror,2,0,2,0,0,0,0
+329,Guam Intll,3,1,4,0,0,0,0
+328,Rota Intl,1,1,2,2,0.666667,0.75,0
+332,West Tinian,1,0,1,0,0,0,0
+327,Saipan Intl,0,4,4,1,1,1,0
+326,Johnston Atoll,1,0,1,0,0,0,0
+325,Alexander Hamilton,8,0,8,0,0,0,0
+324,Mercedita,5,0,5,0,0,0,0
+323,Eugenio Maria De Hostos,1,0,1,0,0,0,0
+322,Cyril E King,8,1,9,0,0,0,0
+321,Luis Munoz Marin Intl,17,4,21,1,1,1,0
+320,Rafael Hernandez,3,1,4,0,0,0,0
+319,Hilo Intll,3,0,3,0,0,0,0
+318,Keahole-Kona Intll,5,1,6,0,0,0,0
+317,Lanai,4,0,4,0,0,0,0
+316,Kahului,7,3,10,1,1,1,0
+315,Kapalua,1,2,3,2,0.666667,0.75,0
+314,Molokai,1,2,3,2,0.666667,0.75,0
+313,Honolulu Intl,15,9,24,2,0.909091,0.95,1652.954459
+312,Lihue,0,3,3,3,0.55,0.621212,0
+311,Miami Intl,42,5,47,2,0.857143,0.916667,480.854801
+310,Fort Lauderdale/Hollywood Intl,33,1,34,3,0.5,0.547619,7.0625
+309,Mc Allen Miller Intl,2,0,2,0,0,0,0
+308,Rio Grande Valley Intl,5,0,5,0,0,0,0
+307,Southwest Florida Intl,27,2,29,3,0.533333,0.604167,3.5625
+306,Palm Beach Intl,24,3,27,3,0.5625,0.648148,1.288585
+305,Sarasota/Bradenton Intl,17,2,19,3,0.529412,0.592593,0
+304,Laredo Intl,1,0,1,0,0,0,0
+303,Corpus Christi Intl,3,0,3,0,0,0,0
+302,St Petersburg/Clearwater Intl,2,1,3,4,0.363636,0.427083,0
+301,Tampa Intl,36,6,42,2,0.6875,0.772727,40.780371
+300,Melbourne Intll,6,2,8,3,0.444444,0.513889,1.9
+299,Orlando Intl,47,9,56,2,0.8,0.875,231.602319
+298,Daytona Beach Intl,5,2,7,3,0.482759,0.535714,0
+297,San Antonio Intl,18,1,19,0,0,0,0
+296,William P Hobby,23,4,27,3,0.588235,0.683333,69.157823
+295,Gainesville Regional,2,0,2,0,0,0,0
+294,Jefferson County,1,0,1,0,0,0,0
+293,Houston Intercontinental,50,12,62,3,0.72,0.824074,519.385437
+292,New Orleans Intl/Moisant Fld/,26,7,33,3,0.59375,0.675439,20.280389
+291,Lake Charles Regional,1,0,1,0,0,0,0
+290,Lafayette Regional,1,1,2,4,0.431818,0.469298,0
+289,Panama City-Bay Co Intl,1,0,1,0,0,0,0
+288,Robert Mueller Muni,14,4,18,4,0.463415,0.548246,23.235507
+287,Tallahassee Regional,2,3,5,3,0.541667,0.602564,0
+286,Pensacola Regional,7,3,10,3,0.5,0.552632,20.383333
+285,Eglin Afb,1,0,1,0,0,0,0
+284,Jacksonville Intl,15,7,22,3,0.578947,0.651515,111.439801
+283,"Baton Rouge Metropolitan, Ryan",8,1,9,4,0.431818,0.469298,36.57619
+282,Easterwood Field,1,0,1,0,0,0,0
+281,Mobile Regional,7,3,10,4,0.456522,0.519841,28.457149
+280,Killeen Muni,1,0,1,0,0,0,0
+279,Mathis Field,1,0,1,0,0,0,0
+278,Alexandria Esler Regional,1,0,1,0,0,0,0
+277,Waco Regional,1,0,1,0,0,0,0
+276,El Paso Intl,13,4,17,4,0.465116,0.545833,13.854834
+275,Midland Intll,3,3,6,4,0.396226,0.464286,0.142857
+274,Tucson Intl,12,1,13,4,0.431818,0.469298,0.5
+273,Savannah Intll,13,4,17,3,0.46,0.528986,52.198242
+272,Dannelly Field,4,1,5,5,0.3125,0.3475,1.473816
+271,Jackson Intll,7,2,9,5,0.328358,0.384091,1.366746
+270,Tyler Pounds Field,2,0,2,0,0,0,0
+269,Gregg County,1,1,2,0,0,0,0
+268,Abilene Regional,1,0,1,0,0,0,0
+267,Shreveport Regional,4,3,7,5,0.338235,0.41087,0.833333
+265,Columbus Metropolitan,1,0,1,0,0,0,0
+266,Monroe Regional,2,5,7,4,0.390625,0.483333,18.607937
+264,Yuma Mcas/Yuma Intl,1,0,1,0,0,0,0
+263,San Diego Intl-Lindbergh Fld,32,4,36,3,0.516129,0.552083,77.494173
+262,Dallas Love Field,6,7,13,4,0.5,0.605072,9.971429
+261,Dallas/Fort Worth Intl,77,41,118,3,0.75641,0.844633,4752.8996
+260,Charleston Afb/Intl,9,2,11,4,0.4,0.447917,1.721825
+259,Bush Field,3,1,4,4,0.324324,0.361111,0.47619
+258,Phoenix Sky Harbor Intl,49,11,60,3,0.516949,0.571038,522.347864
+257,Texarkana Regional-Webb Field,0,1,1,4,0.434783,0.456944,0
+256,Birmingham Intl,10,7,17,4,0.465116,0.515278,46.250119
+255,The William B Hartsfield Atlan,64,37,101,3,0.676471,0.7657,2500.449882
+254,Lubbock Intl,2,4,6,4,0.445255,0.48224,0.72619
+252,Myrtle Beach Intl,4,0,4,0,0,0,0
+253,John Wayne Airport-Orange Coun,17,5,22,4,0.466667,0.50119,22.073898
+251,Long Beach /Daugherty Field/,5,2,7,4,0.439716,0.466398,1.333333
+250,Palm Springs Regional,10,4,14,4,0.446043,0.482527,2.767857
+248,Los Angeles Intl,42,17,59,3,0.55814,0.613426,799.435481
+249,Columbia Metropolitan,6,3,9,4,0.411765,0.444048,9.067985
+247,Sheppard Afb/Wichita Falls Mun,0,1,1,4,0.434783,0.456944,0
+246,Ontario Intl,15,8,23,3,0.510638,0.543981,50.990965
+244,Oxnard,0,1,1,4,0.361386,0.378995,0
+245,Burbank-Glendale-Pasadena,11,6,17,4,0.448485,0.489865,6.166667
+243,New Hanover Intll,3,0,3,0,0,0,0
+242,Santa Barbara Muni,3,4,7,4,0.44186,0.474781,17.5
+241,Lawton Muni,0,1,1,4,0.434783,0.456944,0
+240,Huntsville Intl-Carl T Jones F,5,3,8,4,0.457516,0.484524,0.416667
+239,Adams Field,7,3,10,4,0.458065,0.484742,48.911675
+238,Albert J Ellis,1,0,1,0,0,0,0
+236,Santa Maria Pub/Capt G Allan H,2,0,2,0,0,0,0
+237,Greenville-Spartanburg,4,1,5,4,0.406977,0.429762,0
+235,Fayetteville Regional/Grannis,2,0,2,0,0,0,0
+233,Albuquerque Intl,11,12,23,4,0.5,0.554444,303.806303
+234,Lovell Field,1,1,2,4,0.406977,0.429762,0
+232,Memphis Intl,26,18,44,4,0.531034,0.598485,332.095865
+231,Flagstaff Pulliam,0,1,1,4,0.344444,0.364247,0
+229,Amarillo Intl,2,5,7,4,0.431818,0.470395,29.303113
+230,Charlotte/Douglas Intl,48,39,87,4,0.611511,0.714706,1979.836767
+228,San Luis Obispo County-Mc Ches,1,1,2,0,0,0,0
+227,Kinston Regional Jetport At St,0,1,1,5,0.382222,0.409302,0
+226,Fort Smith Regional,2,1,3,4,0.434783,0.456944,0
+225,Will Rogers World,7,7,14,4,0.46988,0.509615,35.218609
+223,Asheville Regional,0,2,2,4,0.415459,0.440891,0
+224,Meadows Field,2,2,4,4,0.401042,0.436147,0.5
+222,Mc Ghee Tyson,6,4,10,4,0.459893,0.487403,8.369048
+221,Raleigh-Durham Intll,28,22,50,4,0.518072,0.597868,328.137016
+220,Drake Field,1,2,3,4,0.438849,0.465847,0
+219,Mc Carran Intl,30,19,49,3,0.545455,0.598148,270.954906
+218,Piedmont Triad Intll,11,7,18,4,0.467742,0.504789,50.909865
+217,Nashville Intll,26,30,56,4,0.562874,0.644504,373.263778
+216,Tulsa Intl,7,9,16,4,0.475904,0.522152,50.660606
+215,Tri-Cities Regional Tn/Va,1,2,3,4,0.415459,0.440891,0
+214,Monterey Peninsula,1,1,2,4,0.361386,0.378995,0
+213,Fresno Air Terminal,9,6,15,4,0.446429,0.487778,164.488925
+212,Norfolk Intl,14,5,19,4,0.454545,0.485965,0.883333
+211,Barkley Regional,1,0,1,0,0,0,0
+210,Newport News/Williamsburg Inte,1,0,1,0,0,0,0
+208,Durango-La Plata County,0,1,1,4,0.344444,0.364247,0
+209,Joplin Regional,2,0,2,0,0,0,0
+207,Cape Girardeau Regional,2,0,2,0,0,0,0
+206,Springfield Regional,3,3,6,4,0.424419,0.456621,8.695739
+205,Merced Municipal/Macready Fiel,1,1,2,5,0.311475,0.329386,0
+204,Roanoke Regional/Woodrum Field,5,2,7,5,0.385965,0.417045,4.483333
+203,San Jose Intll,13,13,26,4,0.455446,0.515399,48.642932
+202,Richmond Intll,12,7,19,4,0.459716,0.496564,32.245346
+199,Modesto City-County--Harry Sha,0,2,2,4,0.371025,0.392063,0
+200,Mammoth Lakes,0,1,1,5,0.311475,0.329386,0
+201,San Francisco Intl,37,31,68,3,0.581006,0.645833,2518.432406
+198,Wichita Mid-Continent,6,6,12,4,0.437788,0.474561,17.588071
+197,Metropolitan Oakland Intl,8,12,20,4,0.444915,0.497619,25.195336
+196,Forney Aaf,1,0,1,0,0,0,0
+195,Williamson County Regional,1,1,2,0,0,0,0
+194,Greenbrier Valley,0,1,1,5,0.343874,0.368199,0
+193,Stockton Metropolitan,0,1,1,4,0.369718,0.387302,0
+191,Evansville Regional,5,0,5,0,0,0,0
+192,Blue Grass,6,4,10,4,0.405063,0.4375,32.490476
+190,Charlottesville-Albemarle,1,2,3,5,0.376923,0.409694,0
+189,Louisville Intl,11,7,18,4,0.459716,0.496564,7.092893
+188,Pueblo Memorial,1,0,1,0,0,0,0
+187,Tri-State/Milton J.Ferguson Fi,1,0,1,0,0,0,0
+186,Yeager,2,2,4,5,0.375969,0.408763,0
+185,Sonoma County,0,1,1,4,0.369718,0.387302,0
+184,Gunnison County,1,3,4,4,0.457516,0.484524,0
+183,Sacramento Metropolitan,9,14,23,4,0.449153,0.507075,97.602181
+182,Lambert-St Louis Intl,45,49,94,3,0.623711,0.701102,2904.069736
+181,City Of Colorado Springs Muni,3,5,8,4,0.428571,0.458672,126
+180,Columbia Regional,0,1,1,4,0.386076,0.405055,0
+179,Washington National,24,18,42,4,0.486056,0.540301,39.707576
+178,Lake Tahoe,0,1,1,4,0.369718,0.387302,0
+177,Washington Dulles Intl,24,24,48,4,0.527426,0.582,509.937277
+176,Cincinnati/Northern Kentucky I,28,33,61,4,0.553571,0.62164,368.445026
+175,Walker Field,1,0,1,0,0,0,0
+174,Baltimore-Washington Intl,25,28,53,4,0.535865,0.596457,322.31566
+173,Aspen-Pitkin Co/Sardy Field,2,2,4,4,0.434524,0.460046,0
+172,Kansas City Intl,16,19,35,4,0.512,0.557943,90.095133
+170,Atlantic City Intll,6,0,6,0,0,0,0
+171,Hulman Regional,3,0,3,0,0,0,0
+169,Reno/Tahoe Intll,5,11,16,4,0.443983,0.492991,5.912335
+168,Eagle County Regional,4,3,7,4,0.439759,0.469178,0.304167
+167,Indianapolis Intl,17,24,41,4,0.524194,0.577564,214.635402
+166,Stapleton Intl,37,48,85,3,0.598291,0.669048,1994.733518
+165,Chico Muni,0,1,1,4,0.369718,0.387302,0
+164,Decatur,2,1,3,4,0.386076,0.405055,0
+163,Capital,3,1,4,4,0.386076,0.405055,122
+162,Philadelphia Intl,24,38,62,4,0.552941,0.62234,479.842112
+161,James M Cox Dayton Intl,16,13,29,4,0.464052,0.505869,153.39373
+160,Quincy Muni Baldwin Field,1,1,2,4,0.386076,0.405055,0
+159,Port Columbus Intl,10,18,28,4,0.49481,0.539044,7.881729
+158,University Of Illinois-Willard,3,3,6,5,0.374026,0.401852,77.74127
+157,Harrisburg Intll,5,4,9,4,0.4,0.428571,18.015296
+156,Mercer County,1,0,1,0,0,0,0
+155,Purdue University,1,1,2,0,0,0,0
+153,Yampa Valley,4,5,9,4,0.41716,0.446217,0.676923
+154,Bloomington/Normal,1,3,4,4,0.389937,0.414651,22.829365
+152,Pittsburgh Intll,40,54,94,4,0.583969,0.666122,2442.689364
+151,Redding Muni,4,1,5,4,0.369718,0.387302,210
+150,John F Kennedy Intl,13,33,46,4,0.534722,0.593615,259.45719
+149,Lehigh Valley Intll,2,5,7,4,0.411765,0.440476,0
+148,Greater Peoria Regional,3,3,6,4,0.402778,0.427011,32.837302
+147,Newark Intl,20,47,67,4,0.563177,0.638355,362.270821
+146,La Guardia,14,36,50,4,0.523333,0.591826,86.446734
+144,Salt Lake City Intl,26,33,59,4,0.513245,0.580645,1669.011356
+145,Burlington Regional,2,2,4,4,0.374359,0.396689,0
+143,Long Island Mac Arthur,2,11,13,5,0.405685,0.450849,4.248718
+142,Elko Muni-J.C. Harris Field,7,10,17,5,0.405685,0.450318,228.011943
+140,Lincoln Muni,4,2,6,4,0.400568,0.422577,0
+141,University Park,0,2,2,5,0.349862,0.369685,0
+139,Akron-Canton Regional,3,5,8,5,0.384409,0.417483,146.867929
+137,Fort Wayne Intll,5,5,10,4,0.403646,0.432258,7.423957
+138,Arcata,1,2,3,4,0.372822,0.394081,2
+136,Westchester County,4,1,5,5,0.370192,0.390909,154
+135,Youngstown-Warren Regional,0,1,1,6,0.27907,0.293519,0
+134,Tweed-New Haven,1,1,2,6,0.271454,0.282366,0
+133,Eppley Airfield,3,12,15,4,0.468657,0.503715,8.393651
+132,Wilkes-Barre/Scranton Intl,0,4,4,4,0.410667,0.437229,0
+131,Cleveland-Hopkins Intl,10,35,45,4,0.535593,0.596519,64.938654
+130,Quad-City,3,6,9,4,0.405479,0.436937,87.066667
+129,Stewart Int'l,2,3,5,4,0.404199,0.428571,0
+128,Des Moines Intl,2,7,9,4,0.445682,0.474479,40.666667
+127,Toledo Express,1,3,4,4,0.401028,0.425214,0
+126,Michiana Rgnl Transportation C,2,6,8,4,0.407311,0.438034,0
+125,Theodore Francis Green State,3,12,15,4,0.426273,0.468553,10.913223
+124,Jack Mc Namara Field,0,2,2,4,0.372414,0.393519,0
+123,Chicago Midway,4,22,26,4,0.489297,0.539063,100.323606
+122,Merrill C Meigs,0,1,1,5,0.280182,0.290921,0
+121,William B. Heilig Field,0,1,1,6,0.289908,0.306962,0
+120,Cedar Rapids Muni,4,4,8,5,0.399464,0.428076,12.4421
+119,Bradley Intl,7,22,29,4,0.481818,0.534591,8.172168
+118,Chicago O'hare Intl,40,99,139,3,0.680147,0.766667,5286.21912
+117,Erie Intl,0,1,1,5,0.370192,0.390909,0
+116,Klamath Falls Intll,5,1,6,5,0.271795,0.282862,1.5
+115,Elmira/Corning Regional,1,1,2,5,0.370192,0.390909,0
+114,Greater Rockford,0,1,1,4,0.406114,0.425179,0
+113,Binghamton Regional/Edwin A Li,0,2,2,5,0.374696,0.397944,0
+112,Detroit Metropolitan Wayne Cou,17,53,70,4,0.556548,0.628788,759.175113
+111,Kalamazoo/Battle Creek Interna,3,4,7,4,0.415011,0.439273,1.683333
+110,Worcester Muni,0,2,2,5,0.376528,0.400108,0
+109,General Edward Lawrence Logan,8,42,50,4,0.54023,0.599734,104.217525
+108,Rogue Valley Intl- M,2,2,4,4,0.372822,0.394081,0
+105,Detroit City,0,3,3,4,0.384248,0.407867,0
+106,Sioux Gateway,1,5,6,4,0.42369,0.449373,0.5
+107,Dubuque Regional,1,1,2,4,0.406114,0.425179,0
+104,Twin Falls-Sun Valley Regional,2,1,3,5,0.340611,0.359936,156
+103,Tompkins County,0,2,2,5,0.371703,0.394839,0
+102,Waterloo Muni,0,4,4,4,0.417411,0.441622,0
+101,Albany County,2,12,14,4,0.444444,0.480053,3.771012
+100,Capital City,1,6,7,4,0.417219,0.444885,3.5
+99,Kent County Intl,2,7,9,4,0.426304,0.45523,0.299242
+97,Pocatello Regional,2,1,3,6,0.255285,0.266136,2
+98,Natrona County Intl,1,1,2,5,0.340611,0.359936,0
+96,Manchester,2,5,7,4,0.42369,0.449373,1.563585
+95,Greater Buffalo Intl,3,19,22,4,0.455635,0.501316,46.192502
+94,General Mitchell Intll,5,29,34,4,0.516304,0.561842,123.889916
+93,Bishop Intll,0,4,4,4,0.414847,0.439035,0
+92,Syracuse Hancock Intl,1,19,20,4,0.463592,0.507417,1.168651
+91,Greater Rochester Intl,0,18,18,4,0.454976,0.498698,0
+90,Dane County Regional-Truax Fie,3,6,9,4,0.432127,0.458551,15.209896
+89,Oneida County,0,1,1,5,0.350685,0.368099,0
+88,Muskegon County,0,1,1,4,0.406114,0.425179,0
+87,North Bend Muni,3,0,3,0,0,0,0
+86,Friedman Memorial,2,1,3,5,0.340611,0.359936,0
+85,Fanning Field,2,3,5,5,0.378897,0.408966,4.893055
+84,Mbs Intll,0,2,2,4,0.408696,0.429521,0
+83,Boise Air Terminal /Gowen Fld/,6,9,15,4,0.428894,0.460965,222.83907
+82,Joe Foss Field,4,7,11,4,0.426941,0.455882,80.909455
+81,Jackson Hole,0,5,5,4,0.4375,0.46164,0
+80,Portland Intl Jetport,1,9,10,4,0.429864,0.461842,3.327965
+79,La Crosse Muni,2,1,3,4,0.406114,0.425179,0
+78,Rochester Intll,1,2,3,4,0.407407,0.428253,0
+77,Wittman Regional,2,2,4,4,0.40812,0.428883,1.75
+76,Rapid City Regional,1,5,6,4,0.413567,0.439594,49.333333
+75,Mahlon Sweet Field,3,6,9,4,0.390836,0.421839,58.633009
+73,Outagamie County,2,4,6,4,0.410638,0.434801,6.5
+74,Roberts Field,2,3,5,4,0.350962,0.376142,3.583333
+72,Burlington Intl,0,7,7,4,0.425968,0.454991,0
+71,Austin Straubel Intll,3,6,9,4,0.413136,0.440598,97.116667
+70,Cherry Capital,1,2,3,4,0.408696,0.429521,1.166667
+69,Central Wisconsin,1,3,4,4,0.409186,0.431548,1.25
+68,Bangor Intl,0,6,6,4,0.418301,0.445747,0
+67,Minneapolis-St Paul Intl/Wold-,14,64,78,3,0.584527,0.652778,2357.044109
+66,Mcnary Fld,1,3,4,5,0.27551,0.296142,0
+65,Portland Intl,11,30,41,4,0.486547,0.53725,1708.918781
+64,Eastern Oregon Regional At Pen,2,1,3,5,0.328313,0.343425,0
+63,Gallatin Field,6,3,9,4,0.384615,0.406504,139.357399
+62,Billings Logan Intl,6,4,10,4,0.385768,0.409385,151.455052
+61,Bert Mooney,4,2,6,5,0.27973,0.29211,0.166667
+60,Walla Walla Regional,6,2,8,5,0.329323,0.346423,119.377783
+59,Tri-Cities,5,5,10,5,0.350877,0.37553,30.707551
+58,Lewiston-Nez Perce County,4,4,8,5,0.333333,0.355354,3.416667
+57,Marquette County,0,4,4,4,0.408247,0.433081,0
+56,Yakima Air Terminal,2,4,6,5,0.331839,0.353003,115.622217
+55,Helena Regional,4,4,8,5,0.329114,0.353846,0.666667
+54,Pullman/Moscow Regional,2,5,7,5,0.334337,0.358258,0.5
+53,Bismarck Muni,1,4,5,4,0.388258,0.411789,2.25
+52,Duluth Intl,0,1,1,4,0.370036,0.386585,0
+50,Missoula Intll,3,7,10,4,0.389199,0.417863,13.929939
+51,Hector Intll,0,4,4,4,0.418367,0.44187,0
+49,Grant County,2,2,4,6,0.250562,0.263079,5
+48,Pangborn Memorial,1,2,3,5,0.330383,0.347619,0
+47,Seattle-Tacoma Intl,8,49,57,3,0.544578,0.599558,2599.600969
+46,Great Falls Intl,2,6,8,4,0.382514,0.40873,9.23319
+45,Spokane Intl,1,18,19,4,0.44381,0.483906,77.146675
+44,Grand Forks Intl,0,1,1,4,0.370036,0.386585,0
+43,Grand Forks Afb,0,1,1,4,0.370036,0.386585,0
+42,William R Fairchild Intl,0,1,1,4,0.353583,0.367841,0
+41,Minot Intl,0,3,3,4,0.385047,0.406958,0
+40,Glacier Park Intl,0,7,7,5,0.348733,0.374786,0
+39,Bellingham Intl,0,3,3,4,0.361465,0.380323,0
+38,Adak Naf,3,0,3,0,0,0,0
+37,Eareckson As,1,1,2,0,0,0,0
+36,Unalaska,2,1,3,0,0,0,0
+35,Cold Bay,2,1,3,2,0.666667,0.75,2
+34,Sand Point,2,0,2,0,0,0,0
+33,Ketchikan Intl,3,1,4,4,0.353583,0.367841,454
+32,Wrangell,1,1,2,5,0.262069,0.269664,228
+31,James A Johnson Petersburg,2,1,3,6,0.208371,0.214338,13
+30,Port Heiden,1,1,2,0,0,0,0
+29,Sitka,1,3,4,4,0.356037,0.373913,0
+28,St Paul Island,1,1,2,3,0.5,0.611111,0
+27,Kodiak,1,0,1,0,0,0,0
+26,Juneau Intl,4,4,8,4,0.357032,0.376623,725
+25,Gustavus,0,1,1,5,0.263936,0.272917,0
+24,King Salmon,2,0,2,0,0,0,0
+23,Dillingham,1,1,2,0,0,0,0
+22,Yakutat,1,1,2,5,0.263936,0.272917,232
+21,Quinhagak,1,0,1,0,0,0,0
+20,Kwigillingok,3,0,3,0,0,0,0
+19,Kongiganak,2,1,3,0,0,0,0
+18,Eek,1,0,1,0,0,0,0
+17,Tuntutuliak,1,2,3,1,1,1,0
+16,Merle K (Mudhole) Smith,1,1,2,6,0.209532,0.216023,8
+15,Napakiak,1,0,1,0,0,0,0
+14,Napaskiak,1,0,1,0,0,0,0
+13,Bethel,7,7,14,1,1,1,0
+12,Kwethluk,2,1,3,2,0.533333,0.5625,0
+10,Akiachak,1,3,4,2,0.588235,0.65,0
+11,Akiak,2,1,3,2,0.533333,0.5625,0
+9,Tuluksak,0,4,4,2,0.611111,0.681818,0
+8,Anchorage Intl,7,22,29,3,0.451613,0.493386,1515.075917
+7,Aniak,1,2,3,4,0.315068,0.332016,0
+6,St Mary's,0,3,3,4,0.31592,0.334646,0
+5,Nome,1,1,2,4,0.311961,0.325428,0
+4,Fairbanks Intl,2,3,5,4,0.360913,0.379447,45.000912
+3,Ralph Wien Memorial,0,2,2,4,0.312808,0.328084,0
+2,Deadhorse,1,2,3,4,0.312808,0.328084,0
+1,Wiley Post-Will Rogers Mem,0,3,3,4,0.313653,0.330719,0

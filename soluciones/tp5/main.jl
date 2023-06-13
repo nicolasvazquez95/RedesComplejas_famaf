@@ -4,15 +4,17 @@ using DelimitedFiles: writedlm, readdlm
 using ProgressBars
 
 function WS_1D(N::Int,p::Float64,seed::Int)
-    rng = MersenneTwister(seed)
-    nl = Dict{Int,Vector{Int32}}()
-    for i in 2:N-1
+    rng = MersenneTwister(seed) # Generador de números aleatorios inicializado con semilla
+    nl = Dict{Int,Vector{Int32}}() 
+    for i in 2:N-1 # Configuración inicial
         nl[i] = []
         push!(nl[i],i-1,i+1)
     end
+    # Condiciones periódicas
     nl[1] = [2,N]
     nl[N] = [1,N-1]
     nodes = collect(1:N)
+    # Sorteamos los enlaces nuevos
     for i in 1:N
         if rand(rng) < p
             j = i

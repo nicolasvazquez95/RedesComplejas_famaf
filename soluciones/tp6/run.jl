@@ -35,7 +35,7 @@ function oscillators_a(N::Int,p::Float64,seed1::Int,seed2::Int)
 
     θ .+= θ_0
 
-    T = 3 * 10 ^ 7
+    T = 10 ^ 7
 
     t1 = []
     M = []
@@ -53,7 +53,7 @@ function oscillators_a(N::Int,p::Float64,seed1::Int,seed2::Int)
         θ .+= δt
     end
     data = hcat(t1,M)
-    fname = "1b/data/p$(p)_N$(N)_$((10*seed1)+seed2).txt"
+    fname = "p$(p)_N$(N)_$((10*seed1)+seed2).txt"
     open(fname,"w") do io
         writedlm(io,data[1:3000,:])
     end
